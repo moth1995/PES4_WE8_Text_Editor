@@ -1,0 +1,25 @@
+Gui:
+    Game Name: "Pro Evolution Soccer 4 1.10 PC"
+
+Game Data:
+    Base Address: 0x400000
+    Total Stadiums: 30
+    Stadium Name Lenght : 61
+    Total Leagues: 11
+    Total Teams: 282
+    Total Nationalities : 176
+
+Offsets:
+    Teams Offsets Table: 6118200
+    Teams Text Data Offset: 6056584
+    Teams Text Data Size: 7584
+
+    Nationalities Offsets Table: 6053064
+    Nationalities Text Data Offset: 6123840
+    Nationalities Text Data Size: 5640
+
+    Stadiums Offsets Table 1: 7774360
+    Stadiums Offsets Table 2: 8435808
+
+    Leagues Offsets Table 1: 7776224
+    Leagues Offsets Table 2: 8437672

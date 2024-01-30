@@ -1,0 +1,26 @@
+Gui:
+    Game Name: "Winning Eleven 8 International PC"
+
+Game Data:
+    Base Address: 0x400000
+    Total Stadiums: 30
+    Stadium Name Lenght : 61
+    Total Leagues: 11
+    Total Teams: 282
+    Total Nationalities : 176
+
+Offsets:
+    Teams Offsets Table: 6121584
+    Teams Text Data Offset: 6060680
+    Teams Text Data Size: 7584
+
+    Nationalities Offsets Table: 6057160
+    Nationalities Text Data Offset: 6127224
+    Nationalities Text Data Size: 5640
+
+    Stadiums Offsets Table 1: 7774424
+    Stadiums Offsets Table 2: 8435872
+
+    Leagues Offsets Table 1: 7776288
+    Leagues Offsets Table 2: 8437736
+
